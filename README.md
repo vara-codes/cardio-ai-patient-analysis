@@ -84,7 +84,4 @@ cardio-ai-patient-analysis/
 - Interactive Dashboard using Power BI
 
 ---
-
-## 👩‍💻 Author
-
-Shine
+
